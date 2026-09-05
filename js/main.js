@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('I LOVE U').split('')
+    const titles = ('happy birthday, sayang! semoga hari-hari kamu kedepannya selalu dipenuhi kebahagiaan yaa, semoga banyak hal-hal baik yang selalu datang ke kamu tanpa henti. thank u for all ur kindness be, u deserve a life as beautiful as u are 🤍').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
